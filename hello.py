@@ -1,1 +1,1 @@
-pirnt"hello word"
+print("hola mundo")
